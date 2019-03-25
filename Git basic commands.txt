@@ -1,0 +1,8 @@
+GIT BASIC COMMANDS
+
+git init -- Initialize the local repo
+git status -- to check recent
+git add filename -- to add to repo
+git add -A -to add all
+git log -- to check recent commits
+git log --summary -indetail commit
